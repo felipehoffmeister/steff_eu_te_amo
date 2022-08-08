@@ -1,0 +1,37 @@
+.containera {
+ 
+  position: relative;
+ 
+  border: 40px solid rgb(255, 255, 255);
+
+ 
+
+  
+}
+
+.bebe {
+
+  width: 940px;
+
+  
+
+}
+
+.bonus{
+
+  transform:rotate(30deg);
+}
+
+
+body{
+  
+  cursor: url(../assets/294449421_584572269734834_8240489804960473159_n.jpg), default;
+}
+
+
+
+
+
+
+
+

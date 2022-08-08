@@ -1,0 +1,43 @@
+
+
+.caixa {
+
+  width: 950px;
+  padding: 20px;
+
+
+}
+
+
+nav {
+  position: absolute;
+  top: 72px;
+  right: 300px;
+
+
+}
+
+nav li {
+
+  display: inline;
+  margin: 0 0 0 50px;
+}
+
+nav a {
+  font-weight: bold;
+  color: #000000;
+  font-size: 22px;
+  text-decoration: none;
+
+
+}
+
+
+footer {
+  text-align: right;
+  background: #c6c6ca;
+  height: 200px;
+  padding: 40px 100px;
+
+
+}
